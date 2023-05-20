@@ -683,6 +683,7 @@ nav.navbar.shrink ul.dropdown-menu>li>a {
 }
 .main-img {
     max-width: 60%;
+    max-height: 400px;
     margin: 0 auto;
     border: 5px solid;
 }
